@@ -38,14 +38,14 @@ The dashboard also contains customized slicers on the left hand side that filter
 
 ![](dashboard.gif)
 
-## insights and Recommendation
+## Insights and Recommendation
 -	Analysis of the data shows a $176,462 decline in total sales between the year 2014 and 2015, there was also a 9,242 drop in the number of product sold in the year 2015 as compared to 2014. There was also a $2.62 increase in the average shipping cost in 2015 compared to that of 2014 and these may have resulted in the decrease in sales in that year, although a further analysis of previous years and how change in shipping cost have affected sales will be necessary to confirm this observation.
  
    2014 Sales Report                    |            2015 Sales Report
   :----------------------------------------:|:-----------------------------------------------------:|
   ![](2014sales.jpg)                        | ![](2015sales.jpg)
 
-- The analysis also reveals that the category **_breavages_** was the highest selling with a sales of $267,868 and closely following this is the **_dairy_** category with a sales of $234,507. Looking at this I would recommend that more attention be given to this categories as they are more appealing to the market.
+- The analysis also reveals that the category **_beverages_** was the highest selling with a sales of $267,868 and closely following this is the **_dairy_** category with a sales of $234,507. Looking at this I would recommend that more attention be given to this categories as they are more appealing to the market.
 
   ![](salesbycategory.jpg)
 
